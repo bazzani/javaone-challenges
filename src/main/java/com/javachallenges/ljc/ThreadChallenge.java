@@ -1,9 +1,10 @@
-package com.javachallenges.javaone;
+package com.javachallenges.ljc;
 
 public class ThreadChallenge {
     private static int wolverineAdrenaline = 10;
 
     public static void main(String... doYourBest) throws InterruptedException {
+
         new Motorcycle("first").start();
         new Motorcycle("second").start();
         new Motorcycle("third").start();
