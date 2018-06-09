@@ -1,4 +1,4 @@
-package com.javachallenges.javaone;
+package com.javachallenges.ljc;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package com.javachallenges.javaone;
+package com.javachallenges.ljc;
 
 public class PolymorphismChallenge {
     static abstract class Simpson { void talk() {

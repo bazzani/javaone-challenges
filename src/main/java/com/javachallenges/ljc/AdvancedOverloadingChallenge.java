@@ -1,4 +1,4 @@
-package com.javachallenges.javaone;
+package com.javachallenges.ljc;
 
 @SuppressWarnings(value = "all")
 public class AdvancedOverloadingChallenge {

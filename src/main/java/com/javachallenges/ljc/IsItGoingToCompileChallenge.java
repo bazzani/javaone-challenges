@@ -1,4 +1,4 @@
-package com.javachallenges.javaone;
+package com.javachallenges.ljc;
 
 import java.io.Serializable;
 import java.util.Arrays;
