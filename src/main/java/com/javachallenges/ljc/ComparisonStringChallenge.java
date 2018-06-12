@@ -16,8 +16,9 @@ public class ComparisonStringChallenge {
 		result += new String("doYourBest") == new String("doYourBest")
 				? "5" : "6";
 
-		result += new String("noBugsProject").equals("noBugsProject")
+		result += new String("noBugsProject").equals(new String("noBugsProject"))
 				? "7" : "8";
+
 
 		System.out.println(result);
 	}
